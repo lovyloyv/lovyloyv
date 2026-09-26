@@ -21,7 +21,8 @@ This is an account meant to showcase my skills publicly, unlike my other account
 
 - 🍔 **Miscellaneous Projects**
   - Sometimes I write programs to help with mundane tasks, like extending a DualSense controller's Bluetooth range with a custom repeater. I might publish that project eventually! 🤔
-
+  - Oh! I also do a bit of HTML and CSS, which I only use for school related activities that goes here as proof of work.
+    
 ## Skillz 💻
 
 - 🖥️ **Programming**
