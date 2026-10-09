@@ -43,6 +43,6 @@ This is an account meant to showcase my skills publicly, unlike my other account
 - Markdown is definitely not included in my skills.
 - I hope to get a degree in CS soon!
 
-Pibble says you should check out my blog at https://lovyloyv.github.io ~
+Pibble says you should check out my blog at [lovy.sh](https://lovy.sh/) ~
 \
  <img src="teto.gif" width="93" />
